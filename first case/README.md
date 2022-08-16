@@ -1,5 +1,7 @@
 # Akbank Web3 Practicum First Case
 
+Not : Kolay testler yapılabilmesi için tüm classları tek bir dosyada topladım. Sadece main'de değişiklik yaparak test yapabilirsiniz.
+
 Case detail : Boğaz köprülerinden geçiş yapan araçlardaki HGS cihazlarının yazılımını yazmanızı bekliyoruz. Buna göre araçların HGS kayıtlarının tutulması sırasında bir HGS numarası, sahibinin ismi ve soyismi, aracın sınıfı (1. Sınıf: otomobil, 2. Sınıf: minibüs, 3. Sınıf: otobüs), geçiş yaptığı tarih ve saat bilgileri, bakiyesi gibi bilgileri tutacak ve aşağıdaki istenenleri karşılayacaksınız.
  - Her araç sınıfı için ayrı bir sınıf (class) tanımı yapınız.
  
